@@ -1,0 +1,1 @@
+# AIDM android project
