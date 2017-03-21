@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Products database</string>
+
+    <!--<string name="spinner_prompt">Choose</string>-->
+    <!--<string-array name="item_list">-->
+        <!--<item>item 1</item>-->
+        <!--<item>item 2</item>-->
+        <!--<item>item 3</item>-->
+        <!--<item>item 4</item>-->
+        <!--<item>item 5</item>-->
+        <!--<item>item 5</item>-->
+        <!--<item>item 5</item>-->
+        <!--<item>item 5</item>-->
+        <!--<item>item 5</item>-->
+        <!--<item>item 5</item>-->
+        <!--<item>item 5</item>-->
+        <!--<item>item 5</item>-->
+        <!--<item>item 5</item>-->
+        <!--<item>item 5</item>-->
+        <!--<item>item 5</item>-->
+        <!--<item>item 5</item>-->
+        <!--<item>item 6</item>-->
+        <!--<item>item 6</item>-->
+        <!--<item>item 6</item>-->
+        <!--<item>item 6</item>-->
+    <!--</string-array>-->
+</resources>
